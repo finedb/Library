@@ -6,7 +6,7 @@ using System.Windows.Forms;
 // 2014-01-06
 // 【注意】Application.EnableVisualStyles(); が無効の時はwatertextが機能しない。
 
-namespace Aa.ControlEx
+namespace Aa.API.ControlEx
 {
 
   /// <summary>
